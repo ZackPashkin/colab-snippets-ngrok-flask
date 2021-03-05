@@ -2,7 +2,7 @@
 Short google colab pieces that can help with ngrok flask projects
 
 Snippets available from colab:
-![Image](../blob/master/myimage.png?raw=true)
+![Snippets pannel](https://github.com/ZackPashkin/colab-snippets-ngrok-flask/blob/main/colab%20snippets.png)
 
 
 Content:
