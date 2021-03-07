@@ -1,8 +1,6 @@
 # colab-snippets-ngrok-flask
-Short google colab pieces that can help with ngrok flask projects
+Short google colabs that can help with ngrok flask projects
 
-Snippets are available from colab:
-![Snippets pannel](https://github.com/ZackPashkin/colab-snippets-ngrok-flask/blob/main/colab%20snippets.png)
 
 
 Content:
